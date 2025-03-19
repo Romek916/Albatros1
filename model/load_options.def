@@ -1,4 +1,4 @@
-﻿LoadOptions_SearchPaths: D:\\Albatros\\model\\... "C:\\Users\\Roman\\AppData\\Local\\CADENAS Library\\..." "C:\\Program Files\\Siemens\\NXLauncher..." 
+﻿LoadOptions_SearchPaths: "C:\\Users\\Michał\\AppData\\Local\\CADENAS Library\\..." D:\\Albatros1\\model\\... 
 LoadOptions_LoadComponents: load_all_components
 LoadOptions_PartLoadOption: minimally_load_lightweight_display
 LoadOptions_LoadWAVE: NO
